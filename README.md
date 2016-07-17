@@ -8,11 +8,11 @@ Angular JS is  a tool that I personally appreciate so much. When I was learning 
 
 ## Glossary:
 ```
-00. Introduction
+Introduction
 01. Modules
 ```
 
-##  0. Intro
+##  Introduction
 The structure of this repository, and the explanation of the tool Angular that I give here is based in the great [codecademy](https://www.codecademy.com/learn) course, where I learned the basics.
 I really appreciate the advices that anyone could give me, not only angular things, any advice is good advice.
 
